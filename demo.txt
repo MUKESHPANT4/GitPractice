@@ -1,1 +1,3 @@
 this is my firtst file to push on github. thank you
+
+ok then my github setup is completed. bye!
